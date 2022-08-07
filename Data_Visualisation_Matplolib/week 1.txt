@@ -1,0 +1,23 @@
+Alberto Cairo - the visualization wheel.
+
+Alberto Cairo - The Truthful Art. Framework of 5 qualities:
+1. Truth. Although truth is subjective, as data scientists we have to be honest ourselves when we clean data, summarise, or manipulate data, is the meaning likely to be obscured? Be a skeptic of your own visualisation.
+2. Functional. Increase comprehension by means such as labelling>grid lines. 
+3. Beauty. 
+4. Insightful. Less tables means more insight.
+5. Englightening. A combination of the previous four, but adds a socio ethical responsibility dimension. 
+
+Edward R Tufte - The visual display of quantitative information
+
+For simplicity's sake, Tufte recommends to maximise the "data ink ratio" of a graph amd strip away any non-necessary information, and to consider if other data formats would improve or simplify the visualisation of a graph. 
+
+Tufte: Art Junk - 
+1. Unintended optical art (shading, patterns, etc) - better to have labels than too much detail.
+2. The grid - grid is unnecessary and causes competition with data being showed. Better to label too.
+3. The duck - non-data creative graphs, whether they are line art or photographs.
+
+Tufte led the implementation minimalism in charts and data visualisation. He argued simple line historic charts could be thought as essential parts of the discussion of data arguments, and called these data words or sparklines.
+
+Another tufte principle is the lie factor, which is the size of an effect shown in the graphic divided by the size of the effect actually in the data
+
+https://www.reddit.com/r/dataisugly/comments/9axy56/in_my_psychology_textbook/
